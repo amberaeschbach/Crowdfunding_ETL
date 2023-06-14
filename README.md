@@ -1,2 +1,2 @@
 # Crowdfunding_ETL
-projuct 2
+project 2
